@@ -43,6 +43,7 @@ public class TahajjudForm extends javax.swing.JFrame
         labAM = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("KALKULATOR TAHAJJUD");
         setBackground(new java.awt.Color(153, 255, 102));
 
         labInit.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 0, 14)); // NOI18N

@@ -114,6 +114,7 @@ public class Ashar extends javax.swing.JFrame {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("WAKTU ASHAR TELAH TIBA");
 
         jPanel7.setBackground(new java.awt.Color(46, 204, 113));
 

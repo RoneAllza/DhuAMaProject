@@ -35,6 +35,7 @@ public class Maghrib extends javax.swing.JFrame {
         notifTulisanAzan = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("MAGHRIB TELAH TIBA");
 
         jPanel1.setBackground(new java.awt.Color(46, 204, 113));
 
